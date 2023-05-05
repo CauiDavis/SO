@@ -1,2 +1,2 @@
-# SO
+# SISTEMA OPERACIONAL
  
